@@ -16,9 +16,9 @@ import save_MongoDB
 
 import NaturlaLight_IRD
 
-ADMIN_KEY_SECRETE = '5iHKcS5SBaMLvuv0oTr/NxGWpSSw97NTev/YEZh8aRQ='
-ADMIN_KEY_ACCESS = 'PvJ0FTIVTyGGzA4ELqmul/KCSNdrUPLQvQUE+4zX7Bs='
-url = 'http://210.102.142.19:2224/'
+ADMIN_KEY_SECRETE = '*****'
+ADMIN_KEY_ACCESS = '*****'
+url = '*******/'
 
 # 데이터 저장할 엑셀 파일 이름
 file_name = 'solar term_test'
